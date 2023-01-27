@@ -8,6 +8,7 @@
         32.954120326746775
     ],
     "glyphs": "https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf",
+    "sprite": "https://demotiles.maplibre.org/styles/osm-bright-gl-style/sprite",
     "layers": [
         {
             "id": "background",
